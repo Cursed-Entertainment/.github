@@ -72,9 +72,6 @@
             src="https://img.shields.io/badge/opencv-%23007ab7.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
     </div>
 </div>
-
-<br>
-[![GitHub Org Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=GitHub%20Stats&query=%24.total_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2FCursed-Entertainment)](https://github.com/Cursed-Entertainment)
 <div align="center">
     <h2>Social Media:</h2>
     <div align="center">
