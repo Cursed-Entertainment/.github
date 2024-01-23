@@ -74,19 +74,7 @@
 </div>
 
 <br>
-<div align="center">
-    <a href="https://github.com/Cursed-Entertainment/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?org=Cursed-Entertainment"
-            alt="CursedPrograms' GitHub stats">
-    </a>
-</div>
-<br>
-<div align="center">
-<a href="https://github.com/Cursed-Entertainment/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?org=Cursed-Entertainment&layout=pie&langs_count=10&hide=mathematica,brainfuck"
-        alt="Top Languages">
-</a>
-</div>
+[![GitHub Org Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=GitHub%20Stats&query=%24.total_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2FCursed-Entertainment)](https://github.com/Cursed-Entertainment)
 <div align="center">
     <h2>Social Media:</h2>
     <div align="center">
