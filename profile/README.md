@@ -75,7 +75,7 @@
 
 <br>
 <div align="center">
-    <a href="https://github.com/Cursed-Entertainment/github-readme-stats">
+    <a href="https://github.com/cursed-entertainment/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Cursed-Entertainment"
             alt="CursedPrograms' GitHub stats">
     </a>
