@@ -17,11 +17,10 @@
   <a href="https://ko-fi.com/cursedentertainment">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" style="width: 20%;"/>
   </a>
-
 </div>
   <br>
+  <div align="center">
     <h2>Tools & Software:</h2>
-    <div align="center">
         <img alt="Unity"
             src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white" />
         <img alt="VS Code"
