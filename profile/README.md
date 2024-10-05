@@ -1,9 +1,25 @@
-<div align="center">
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
         alt="CursedEntertainment Logo">
 </a>
- Games . Music . AI . Software
+<div align="center">
+ Games . Augmented Reality . Music . AI . Software
+       </div>
+       <br>
+<div align="center">
+
+  <a href="https://cursed-entertainment.itch.io/">
+    <img src="https://static.itch.io/images/app-icon.svg" alt="itch.io" style="width: 10%;"/>
+  </a>
+  </div>
+  <br>
+<div align="center">
+  <a href="https://ko-fi.com/cursedentertainment">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" style="width: 20%;"/>
+  </a>
+
+</div>
+  <br>
     <h2>Tools & Software:</h2>
     <div align="center">
         <img alt="Unity"
@@ -38,6 +54,7 @@
             src="https://img.shields.io/badge/GIMP-%23007ab7.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
                  <img alt="WebGL"
             src="https://img.shields.io/badge/WebGL-%23007ab7?style=for-the-badge&logo=webgl&logoColor=white" />
+<img alt="ARCore" src="https://img.shields.io/badge/ARCore-%23007ab7?style=for-the-badge&logo=arcore&logoColor=white" />       
     </div>
     <h2>Database & Web-hosting Solutions:</h2>
     <div align="center">
@@ -63,6 +80,10 @@
             src="https://img.shields.io/badge/CSS3-%23007ab7.svg?&style=for-the-badge&logo=css3&logoColor=white" />
         <img alt="Python"
             src="https://img.shields.io/badge/Python-%23007ab7.svg?&style=for-the-badge&logo=python&logoColor=white" />
+        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%23007ab7.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+        <img alt="Inno Setup" src="https://img.shields.io/badge/Inno%20Setup-%23007ab7.svg?&style=for-the-badge&logo=inno-setup&logoColor=white"/>
+        <img alt="JSON"
+            src="https://img.shields.io/badge/jason-%23007ab7.svg?&style=for-the-badge&logo=json&logoColor=white" />
     </div>
     <h2>Python Libraries:</h2>
     <div align="center">
@@ -72,6 +93,7 @@
             src="https://img.shields.io/badge/Flask-%23007ab7.svg?&style=for-the-badge&logo=flask&logoColor=white" />
         <img alt="OpenCV"
             src="https://img.shields.io/badge/opencv-%23007ab7.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
+         <img alt="Django" src="https://img.shields.io/badge/Django-%23007ab7.svg?&style=for-the-badge&logo=django&logoColor=white" />
     </div>
 </div>
 <div align="center">
