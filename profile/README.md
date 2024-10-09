@@ -123,6 +123,7 @@
         </a>
     </div>
 </div>
+<br>
 
 [![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
       
