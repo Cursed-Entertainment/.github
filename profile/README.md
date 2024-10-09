@@ -123,3 +123,14 @@
         </a>
     </div>
 </div>
+<br>
+  <div align="center">
+  <a href="https://gamejolt.com/@CursedEntertainment">
+    <img src="https://s.gjcdn.net/assets/e88e2b55.png" alt="GameJolt" style="width: 30%;"/>
+  </a>
+  </div>
+<br>
+
+<div align="center">  
+© Cursed Entertainment 2024  
+  </div>
