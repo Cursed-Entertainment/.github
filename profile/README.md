@@ -123,6 +123,9 @@
         </a>
     </div>
 </div>
+
+[![Araknia Ad](https://github.com/CursedPrograms/cursedentertainment/raw/main/images/banner-ads/araknia-ad.png)](https://cursed-entertainment.itch.io/araknia)
+      
 <br>
   <div align="center">
   <a href="https://gamejolt.com/@CursedEntertainment">
